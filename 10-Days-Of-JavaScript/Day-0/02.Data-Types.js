@@ -34,6 +34,7 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     console.log(resultString);
 }
 
+
 function main() {
     const secondInteger = readLine();
     const secondDecimal = readLine();
